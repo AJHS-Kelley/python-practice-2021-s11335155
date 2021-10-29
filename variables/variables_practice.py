@@ -1,4 +1,4 @@
-# Variable Practice, Linda Cooper 10/29/21 2:37pm version 0.1
+# Variable Practice, Linda Cooper 10/29/21 2:46pm version 0.2
 
 # Three Common Types of Data
 
@@ -7,4 +7,6 @@ forty_time = 4.21 # FLOATING POINT, any +/- number with a decimal.
 death_cry = "Curse you, Zagreus! I cannot stand you!"
 # Line 7 is a STRING -- collection of letters/numbers/other chars.
 
-
+print(lives_remaining)
+print(forty_time)
+print(death_cry)
